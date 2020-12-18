@@ -1,17 +1,25 @@
 # FunLocks2020年 アピールシート
 
 ### プロダクト名
-#### - chAt [読み：シーエイチアット]
+#### - chAt
 #### - remoteMic
 
 ### コンセプト
+
+- chAt
  ***「近いのに遠い」*** を解消する
+ 
+- remoteMic
+ ***マイクをもっと便利に！！***
 
 ### 対象ユーザ
-- 物理的に近くにいる人
-	- 大学
-	- 企業
-	- 娯楽施設
+- chAt
+	- 物理的に近くにいる人
+		- 大学
+		- 企業
+		- 娯楽施設
+- remoteMic
+	- マイクを使うと人なら誰でも！
 
 ### どうやって利用するか
 - chAt
@@ -24,9 +32,14 @@
 
 ### 推しポイント
 - Webアプリとして機能を実現したため、サイトにアクセスするだけで手軽に使えます。
+	- ぜひアクセスしてみてください！
+		- chAt: https://funlocks.github.io/team2011/chAt/main/
+		- remoteMic(host側): https://funlocks.github.io/team2011/onlineMic/main/host/
+		- remoteMic(client側): https://funlocks.github.io/team2011/onlineMic/main/client/
 - 物理的に近くにいる人(半径５０m以内）と自動的に接続するためスムーズに始めることができます。そのため、事前にコミュニケーションをとる必要はありません。
 - 現実のマイクと同じように使える直感的なデザインにしました。
 - Peer to Peer で通信しているためサーバーが必要ありません。さらに、サーバーを使用していないためチャットの記録は残りません
+- マイクアプリでは、音声の送信のみをしているため、通信量を抑えることができます。
 
 
 ### スクリーンショット(任意)
@@ -60,4 +73,4 @@
 *Vue.js, bootstrap4, SkyWay*
 
 ### その他開発に使用したツール
-*Visual Studio Code, Git Hub*
+*Visual Studio Code, Git Hub, Firebase*
