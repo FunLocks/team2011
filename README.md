@@ -59,8 +59,8 @@
 
 
 ### スクリーンショット(任意)
-![image](https://user-images.githubusercontent.com/68597660/102520667-45e95d00-40d7-11eb-8da4-078c89037778.png)
-![image](https://user-images.githubusercontent.com/68597660/102520732-56013c80-40d7-11eb-9e53-51d96456198c.png)
+
+|![onmic (1)](https://user-images.githubusercontent.com/68597660/102677831-b54e7200-41e7-11eb-9346-30eedf4615e3.png)|![offmic (1)](https://user-images.githubusercontent.com/68597660/102677834-b8496280-41e7-11eb-8ad5-208454e15a8a.png)|
 ![image](https://user-images.githubusercontent.com/68597660/102522780-0708d680-40da-11eb-9d26-845b96808757.png)
 
 
